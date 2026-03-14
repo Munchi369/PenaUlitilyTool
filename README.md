@@ -74,6 +74,10 @@
 ## 6. CSV作成
 - 対象年度を選んで成績CSVを出力できます。
 - 出力先は `doc/` フォルダです（`doc/XXXX年_成績.csv`）。
+- Geminiのカスタマイズ機能（Gem）を利用して、CSVデータからチームの戦力分析を行うAIを作成しました。
+  - UtilityToolで作成したCSVファイルを添付するだけで分析可能です
+  - **[ペナントアナライザー](https://gemini.google.com/gem/1xP2v2rdmKMHDbgBi32vhxhaXjpyG7ixg?usp=sharing)**
+  - 利用にはGoogleアカウントが必要です。
 
 ## 7. 引退選手復活
 - 引退選手を指定して復活できます。
