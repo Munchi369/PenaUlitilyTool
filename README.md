@@ -25,7 +25,8 @@
 # 導入方法
 1. **[Releases](https://github.com/Munchi369/PenaUlitilyTool/releases) から最新の `PenaUtilityTool.zip` をダウンロードします。**
 2. ダウンロードした ZIP ファイルを解凍します。
-3. 解凍して出てきたフォルダを、**「penanto3」があるフォルダと同じ場所**へコピーしてください。
+3. 解凍した中身のPenaUtilityToolフォルダを、**「penanto3」があるフォルダと同じ場所**へ配置してください。
+4. PenaUtilityTool.exeをダブルクリックで起動。
 
 ※ペナントシミュレーションの本体は、がらくた様のホームページよりダウンロードください。
 **[がらくたのペナントシミュレーション](http://garakutapsg.web.fc2.com/)**
