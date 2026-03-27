@@ -4,7 +4,7 @@
 
 # このツールでできること
 「ゲーム本体だけでは時間がかかる作業」や「あったら嬉しい拡張機能」を凝縮しています。<br>
-- AIで分析<br>
+- AIで分析用データ作成<br>
 <img width="582" height="365" alt="image" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" /> <br>
 - ブックメーカで勝利予想
 <img width="226" height="500" alt="HELbJ08aMAAic5h" src="https://github.com/user-attachments/assets/442d7bdf-6dae-406f-9a18-db9591aa252e" />
@@ -42,7 +42,7 @@
 # 導入方法
 1. **[Releases](https://github.com/Munchi369/PenaUlitilyTool/releases) から最新の `PenaUtilityToolzip.zip` をダウンロードします。**
 2. ダウンロードした ZIP ファイルを解凍します。
-3. 解凍して出てきた`PenaUtilityTool`フォルダを、**「penanto3」フォルダがある階層**へコピーしてください。
+3. 解凍して出てきた`PenaUtilityTool`フォルダを、**「penanto3」フォルダがある階層**へ配置してください。
 ```text
 ペナントシミュレーションのフォルダ/
 ├── penanto3/             <-- セーブデータフォルダ
