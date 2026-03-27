@@ -4,12 +4,8 @@
 
 # このツールでできること
 「ゲーム本体だけでは時間がかかる作業」や「あったら嬉しい拡張機能」を凝縮しています。<br>
-選手データの一括調整: 助っ人外国人やリーグ全体の能力バランスを数クリックで調整<br>
-特殊機能: 引退選手の復活や、オリジナル監督の作成<br>
-新感覚の遊び方: 所持金を賭ける「ブックメーカー」や、借金100億から始まる「再建モード」<br>
-AI戦力分析: 出力したCSVを専用AI（Gem）に読み込ませるだけで、チームの分析。<br>
 - AIで分析<br>
-<img width="682" height="465" alt="image" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" /> <br>
+<img width="582" height="365" alt="image" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" /> <br>
 - ブックメーカ機能で勝利予想
 <img width="326" height="600" alt="HELbJ08aMAAic5h" src="https://github.com/user-attachments/assets/442d7bdf-6dae-406f-9a18-db9591aa252e" />
 <img width="326" height="600" alt="HELbLrha0AA7WbX" src="https://github.com/user-attachments/assets/877bca23-a309-4b88-ae0a-ab0f118e8790" />
