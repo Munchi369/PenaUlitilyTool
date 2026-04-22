@@ -12,10 +12,6 @@
 
 - 他にも色々な機能あり
 
-<img width="326" height="600" alt="スクリーンショット 2026-03-27 193128" src="https://github.com/user-attachments/assets/166bb87d-488b-4953-a77f-3eb9d4b93f05" />
-
-
-
 # 目次
 - [導入方法](#導入方法)
 - [機能ガイド](#機能ガイド)
