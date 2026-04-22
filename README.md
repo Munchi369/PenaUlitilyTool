@@ -6,8 +6,6 @@
 「作業を楽にする便利な機能」や「あったら面白そうな拡張機能」を凝縮しています。<br>
 - AIで分析用データ作成<br>
 <img width="582" height="365" alt="image" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" /> <br>
-
-- 
 <img width="400" height="632" alt="image" src="https://github.com/user-attachments/assets/8cb7847d-b684-41f6-a0a4-e40b64d271a2" />
 
 - 他にも色々な機能あり
@@ -66,6 +64,7 @@
 - Geminiのカスタマイズ機能（Gem）を利用して、CSVデータからチームの戦力分析を行うAIを作成しました。
 - UtilityToolで作成したCSVファイルを添付するだけで分析可能です
 - **[ペナントアナライザー](https://gemini.google.com/gem/1xP2v2rdmKMHDbgBi32vhxhaXjpyG7ixg?usp=sharing)**
+- **[ペナントスポーツ新聞記者](https://gemini.google.com/gem/1MArcXqowWeQMXKRYBxOdGmEOKDdj9C51?usp=sharing)**
 - 利用にはGoogleアカウントが必要です。誰がしたかやチャット内容は私には見えませんのでご安心を。
 
 ## 5. 引退選手復活
