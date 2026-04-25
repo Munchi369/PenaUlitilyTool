@@ -100,7 +100,7 @@ PenaUtilityTool は、こんなことをしたい人向けのツールです。
 以下の Gemini Gem を用意しています。
 
 * [ペナントアナライザー](https://gemini.google.com/gem/1xP2v2rdmKMHDbgBi32vhxhaXjpyG7ixg?usp=sharing)
-* [ペナスポ新聞記者](https://gemini.google.com/gem/1MArcXqowWeQMXKRYBxOdGmEOKDdj9C51?usp=sharing)
+* [ペナスポ新聞](https://gemini.google.com/gem/1MArcXqowWeQMXKRYBxOdGmEOKDdj9C51?usp=sharing)
 
 利用には Google アカウントが必要です。
 誰が使ったか、どんなチャットをしたかは、ツール作者からは確認できませんのでご安心ください。
@@ -160,6 +160,10 @@ doc/XXXX年_成績.csv
 ```
 
 CSVをAIに読み込ませることで、チーム分析やスポーツ新聞風の記事作成にも活用できます。
+
+この機能で作成した**成績.csv**をAIで分析できます。
+
+[AI分析機能について](##AI分析機能について)
 
 ---
 
