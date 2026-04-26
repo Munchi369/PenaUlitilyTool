@@ -21,9 +21,11 @@ PenaUtilityTool は、こんなことをしたい人向けのツールです。
 
 <img width="582" height="365" alt="AI分析用データ作成画面" src="https://github.com/user-attachments/assets/355448b3-d10a-42a1-b8b5-cf9d12756dbc" />
 
-### 分析結果イメージ
+### 画面イメージ
 
 <img width="400" height="632" alt="AI分析結果イメージ" src="https://github.com/user-attachments/assets/8cb7847d-b684-41f6-a0a4-e40b64d271a2" />
+
+ほかにも多数機能あり
 
 ---
 
@@ -168,7 +170,7 @@ Gemini Gem の利用には Google アカウントが必要です。
 doc/XXXX年_成績.csv
 ```
 
-CSVをAIに読み込ませることで、チーム分析に活用できます。
+CSVをAIに読み込ませることで、チーム分析やスポーツ新聞風の記事作成にも活用できます。
 
 詳しくは、[AI分析機能について](#ai分析機能について) をご確認ください。
 
@@ -191,6 +193,8 @@ CSVをAIに読み込ませることで、チーム分析に活用できます。
 ## 7. 装備設定
 
 選手に装備を設定できます。
+
+装備によって能力が変化し、育成やロールプレイの幅が広がります。
 
 ---
 
