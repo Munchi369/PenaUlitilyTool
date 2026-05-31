@@ -27,13 +27,13 @@ PenaUtilityTool は、こんなことをしたい人向けのツールです。
 
 ## スクリーンショット
 
-### ver2.1.0 メニュー画面の刷新
+### 引退選手削除
 
-<img width="700" alt="ver2.0.0 メニュー画面" src="wiki/ver2.0.0/img/ver2_menu.png" />
+<img width="700" alt="ブックメーカー マークカード画面" src="https://github.com/user-attachments/assets/0b84eef5-1422-41d7-8d17-be1b72e2f4d7" />
 
-### ブックメーカー関係の変更
+### 成績ビュー
 
-<img width="700" alt="ブックメーカー マークカード画面" src="wiki/ver2.0.0/img/markCard.png" />
+<img width="700" alt="ver2.0.0 メニュー画面" src="https://github.com/user-attachments/assets/a1474e79-44d1-4dc4-87c2-41d9cbc69d5f" />
 
 ---
 
